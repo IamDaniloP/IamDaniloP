@@ -3,8 +3,8 @@
 - 📫 danilopereirapessoa@gmail.com
 
 <a href="https://github.com/guifreitasds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamDaniloP&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamDaniloP&theme=dracula&layout=compact&langs_count=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamDaniloP&theme=dracula&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamDaniloP&theme=dracula&layout=compact&langs_count=7" />
 </a>
 
 
