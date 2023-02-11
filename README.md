@@ -8,7 +8,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=IamDaniloP&show_icons=true&theme=nord&bg_color=151515&hide_border=true&include_all_commits=true&count_private=true"/>   
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamDaniloP&hide=html&layout=compact&langs_count=7&theme=nord&bg_color=151515&hide_border=true"/>
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamDaniloP&layout=compact)](https://github.com/IamDaniloP/github-readme-stats)/>
 
 </div>
 
