@@ -1,6 +1,13 @@
 - 👋 <b>Olá</b>, me chamo <b>Danilo</b>.
 - 🌱 Estudando <b>Engenharia de Computação</b>.
 - 📫 danilopereirapessoa@gmail.com
+<hr><br>
+Tecnologias
+<div>
+  <a href = "mailto:danilopereirapessoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
+  <a href="https://www.linkedin.com/in/danilopereirapessoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+
 <div><br>
   <a href="https://github.com/IamDaniloP">
     <img style="display:block" src="https://github-readme-stats.vercel.app/api?username=IamDaniloP&theme=dracula&show_icons=true" />
@@ -17,8 +24,3 @@
 </div>
 
 ##
-
-<div>
-  <a href = "mailto:danilopereirapessoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
-  <a href="https://www.linkedin.com/in/danilopereirapessoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div>
